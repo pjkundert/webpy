@@ -24,7 +24,7 @@ from .utils import *  # noqa: F401,F403
 from .webapi import *  # noqa: F401,F403
 from .wsgi import *  # noqa: F401,F403
 
-__version__ = "0.75"
+__version__ = "0.75.1"
 __author__ = [
     "Aaron Swartz <me@aaronsw.com>",
     "Anand Chitipothu <anandology@gmail.com>",
